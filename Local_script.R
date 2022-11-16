@@ -1,9 +1,7 @@
 # This script is used to try out to push the script to github
   # I am using the bo settings function for this
 
-# CHANGED
-
-# Data is a string (copied from for example excel) with the intercept and the 16 capacities
+# Data is a string with the intercept and the 16 capacities
 data = c()
 with_intercept = FALSE
 
